@@ -4,7 +4,7 @@
 
 ### 1. Clone this repo
 
-Clone or download this repo and open the `ict-lab/firebase-functions` directory.
+Clone or download this repo.
 
 ### 2. Install the Firebase CLI and enable Functions on your Firebase CLI
 
